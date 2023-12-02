@@ -9,9 +9,7 @@ I'm Angela, a second-year student at the University of British Columbia (UBC), p
 - 💡 Exploring the vast world of software development.
 - 🌱 Learning something new every day.
 
-## 💻 Technologies & Tools
-
-### Programming Languages
+## 💻 Programming Languages
 <p align="left">
 <!-- C -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
@@ -23,7 +21,7 @@ I'm Angela, a second-year student at the University of British Columbia (UBC), p
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="45" height="45"/>
 </p>
 
-### Web Development
+##### Web Development
 <p align="left">
 <!-- HTML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
@@ -41,7 +39,7 @@ I'm Angela, a second-year student at the University of British Columbia (UBC), p
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
 </p>
 
-### Databases
+##### Databases
 <p align="left">
 <!-- PostgreSQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
@@ -49,7 +47,7 @@ I'm Angela, a second-year student at the University of British Columbia (UBC), p
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
 </p>
 
-### VR/AR Development
+##### VR/AR Development
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white) 
 
 ## 🌐 Connect with Me

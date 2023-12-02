@@ -1,6 +1,7 @@
-# <span style="font-family: 'Courier-New', monospace;"> Hello, World! 🌙</span>
+<h1 align="left"> Hello, World! 👋🏻 </h1>
 
-I'm Angela, a second-year student at the University of British Columbia (UBC) 🎓, passionate about coding, exploring new technologies, and building cool stuff. ✨
+I'm Angela, a second-year student at the University of British Columbia (UBC), passionate about coding, exploring new technologies, and building cool stuff. ✨
+
 
 ## 🚀 About Me
 

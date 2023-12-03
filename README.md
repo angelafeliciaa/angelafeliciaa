@@ -5,7 +5,7 @@ I'm Angela, a second-year student at the University of British Columbia (UBC), p
 
 ## 🚀 About Me
 
-- 🔍 Currently studying Statistics & Computer Science at UBC.
+- 🔍 Currently studying Computer Science & Statistics at UBC.
 - 💡 Exploring the vast world of software development.
 - 🌱 Learning something new every day.
 

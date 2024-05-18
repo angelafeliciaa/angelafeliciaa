@@ -2,7 +2,7 @@
 
 I'm Angela, a second-year student at the University of British Columbia (UBC), passionate about coding, exploring new technologies, and building cool stuff!
 
-## 💻 Programming Languages
+## 💻 Tech Stack
 <p align="left">
   
 <!-- Python -->
@@ -15,10 +15,6 @@ I'm Angela, a second-year student at the University of British Columbia (UBC), p
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <!-- R -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="45" height="45"/>
-</p>
-
-##### Full-Stack Development
-<p align="left">
 <!-- HTML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
 <!-- CSS -->
@@ -34,22 +30,18 @@ I'm Angela, a second-year student at the University of British Columbia (UBC), p
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
 <!-- Express.js -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
-
-
-##### Databases
-<p align="left">
 <!-- PostgreSQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
 <!-- MongoDB -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-</p>
 
-##### VR/AR Development
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white) 
 
-## 🌐 Connect with Me
+
+## 🌐 Links
 
 - [LinkedIn](https://www.linkedin.com/in/angela-feliciaa/)
 - [Portfolio](https://angela-felicia.vercel.app)
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi! :)
+</p>

@@ -1,6 +1,6 @@
-<h1 align="left"> Hello, World! 👋🏻 </h1>
+<h2 align="left"> Hello, World! 👋🏻 </h2>
 
-I'm Angela, an aspiring Software Engineer studying at the University of British Columbia!
+Hi there! I'm Angela, an aspiring Software Engineer studying at the University of British Columbia!
 - Current: Frontend Developer @ UBC Faculty of Applied Science
 - Previous: UX/UI Designer @ UBC Emerging Media Lab</span>
 

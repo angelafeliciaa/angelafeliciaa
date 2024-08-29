@@ -1,8 +1,13 @@
 <h2 align="left"> Hello, I'm Angela! 👋🏻 </h2>
 
 Hi there! I'm Angela, an aspiring software engineer studying Computer Science and Statistics at the University of British Columbia!
-- Current: Frontend Developer @ UBC Faculty of Applied Science
-- Previous: UX/UI Designer @ UBC Emerging Media Lab, Software Developer Intern @ ANJ Group</span>
+
+Current: Incoming Software Developer @ UBC Emerging Media Lab
+
+Previous:
+  - Frontend Developer @ UBC Faculty of Applied Science
+  - UX/UI Designer @ UBC Emerging Media Lab
+  - Software Developer Intern @ ANJ Group</span>
 
 ## 💻 Tech Stack
 <p align="left">

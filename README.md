@@ -2,7 +2,7 @@
 
 Hi there! I'm Angela, an aspiring software engineer studying Computer Science and Statistics at the University of British Columbia!
 
-Current: Incoming Software Developer @ UBC Emerging Media Lab, Full-Stack Developer @ BOLT UBC
+Current: Software Developer @ UBC Emerging Media Lab, Full-Stack Developer @ BOLT UBC
 
 Previous:
   - Frontend Developer @ UBC Faculty of Applied Science

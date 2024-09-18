@@ -2,7 +2,7 @@
 
 Hi there! I'm Angela, a 19 year old aspiring software engineer studying Computer Science and Statistics at the University of British Columbia!
 
-Current: Software Developer @ UBC Emerging Media Lab, Full-Stack Developer @ BOLT UBC
+Current: Software Developer @ UBC Emerging Media Lab, Software Developer @ BOLT UBC, Software Developer @ UBC Launch Pad
 
 Previous:
   - Frontend Developer @ UBC Faculty of Applied Science

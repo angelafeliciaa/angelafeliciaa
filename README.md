@@ -42,11 +42,5 @@ Previous:
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white) 
 
-
-## 🌐 Links
-
-- [LinkedIn](https://www.linkedin.com/in/angela-feliciaa/)
-- [Portfolio](https://angela-felicia.vercel.app)
-
 Feel free to explore my repositories and reach out for collaboration or just to say hi! :)
 </p>

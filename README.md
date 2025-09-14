@@ -1,13 +1,14 @@
 <h2 align="left"> Hello, I'm Angela! 👋🏻 </h2>
 
-Hi there! I'm Angela, a 19-year-old aspiring software engineer studying Computer Science and Statistics at the University of British Columbia!
+Hi there! I'm Angela, a 20-year-old software engineer studying Computer Science and Statistics at the University of British Columbia!
 
 Current: 
-- Software Developer Intern @ SAP
-- Software Developer @ BOLT UBC
-- Software Developer @ UBC Launch Pad
+- Software Developer Intern @ AWS
 
 Previous:
+  - Software Developer Intern @ SAP
+  - Software Developer @ BOLT UBC
+  - Software Developer @ UBC Launch Pad
   - Software Developer @ UBC Emerging Media Lab
   - Frontend Developer @ UBC Faculty of Applied Science
   - UX/UI Designer @ UBC Emerging Media Lab

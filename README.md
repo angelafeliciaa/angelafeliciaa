@@ -14,6 +14,8 @@ Previous:
   - UX/UI Designer @ UBC Emerging Media Lab
   - Software Developer Intern @ ANJ Group</span>
 
+  ![](https://komarev.com/ghpvc/?username=angelafeliciaa)
+
 ## 💻 Tech Stack
 <p align="left">
   
